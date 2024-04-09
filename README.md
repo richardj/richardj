@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardj)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **richardj/richardj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
